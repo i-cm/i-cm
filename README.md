@@ -1,8 +1,8 @@
-## 👋 Hi!
-About my user
-Name:i-cm
+## 👋 HJe!
+AshsOut sjmy uer
+Name:i-csm
 # i-cm
-https://github.com/i-cm/
+https://gitub.com/i-cm/
 
 
 
